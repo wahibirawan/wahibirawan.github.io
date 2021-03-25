@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.wahib.my.id/sitemap.xml
+Host: https://www.wahib.my.id
